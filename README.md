@@ -18,3 +18,6 @@ _*How to Install*_
 - ` Now you can try the calculator `
 # 
 Made by muhammadgimnastiar&copy;
+
+
+[link]: https://github.com/muhammadgimnastiar/calculator-javafx/releases/download/1.0/Calculator.zip
